@@ -223,6 +223,7 @@ body {
     font-size: 0.9rem;
     font-weight: 500;
     color: var(--text-main);
+    text-align: right;
 }
 .member-actions {
     display: flex;
