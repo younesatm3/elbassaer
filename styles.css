@@ -11,8 +11,8 @@
     /* Social Colors */
     --whatsapp: #25D366;
     --facebook: #1877F2;
-    --instagram: #E1306C;
-    --phone: #009688;
+    --telegram: #0088cc;
+    --viber: #7360f2;
     
     /* Effects */
     --shadow-sm: 0 4px 6px rgba(0,0,0,0.05);
@@ -175,10 +175,10 @@ body {
     transform: scale(1.1);
 }
 
-.btn-call { color: var(--phone); }
+.btn-telegram { color: var(--telegram); }
 .btn-whatsapp { color: var(--whatsapp); }
 .btn-facebook { color: var(--facebook); }
-.btn-instagram { color: var(--instagram); }
+.btn-viber { color: var(--viber); }
 
 /* Team Section */
 .cards-grid {
